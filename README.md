@@ -17,4 +17,4 @@ Built for cybersecurity learning purposes only; only run on your own machine.
 - How keyloggers work under the hood
 - Python event listeners with pynput
 - Logging keypresses to a file
-- An Ethical use of security tools
+- It's an ethical use of security tools
